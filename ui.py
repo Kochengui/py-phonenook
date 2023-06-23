@@ -1,4 +1,4 @@
-from Task_8_seminar.logger import input_data, print_data, put_data, delete_data
+from logger import input_data, print_data, put_data, delete_data
 
 
 def interface():
