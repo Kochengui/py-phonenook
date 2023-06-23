@@ -1,4 +1,4 @@
-from Task_8_seminar.data_create import name_data, surname_data, phone_data, address_data
+from data_create import name_data, surname_data, phone_data, address_data
 
 
 def input_data():
